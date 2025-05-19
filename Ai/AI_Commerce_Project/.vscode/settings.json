@@ -1,0 +1,8 @@
+{
+  "python.analysis.extraPaths": [
+    "C:/Users/ahmed mohamed/AppData/Local/Programs/Python/Python310/Lib/site-packages"
+  ],
+  "python.analysis.indexing": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.languageServer": "Pylance"
+}
